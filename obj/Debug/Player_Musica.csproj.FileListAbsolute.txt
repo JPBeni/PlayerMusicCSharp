@@ -1,0 +1,48 @@
+C:\Users\vinip\Desktop\Player_Musica\bin\Debug\Player_Musica.exe.config
+C:\Users\vinip\Desktop\Player_Musica\bin\Debug\Player_Musica.exe
+C:\Users\vinip\Desktop\Player_Musica\bin\Debug\Player_Musica.pdb
+C:\Users\vinip\Desktop\Player_Musica\obj\Debug\Player_Musica.csproj.AssemblyReference.cache
+C:\Users\vinip\Desktop\Player_Musica\obj\Debug\Player_Musica.csproj.SuggestedBindingRedirects.cache
+C:\Users\vinip\Desktop\Player_Musica\obj\Debug\Interop.WMPLib.dll
+C:\Users\vinip\Desktop\Player_Musica\obj\Debug\Player_Musica.csproj.ResolveComReference.cache
+C:\Users\vinip\Desktop\Player_Musica\obj\Debug\Player_Musica.PrincipalForm1.resources
+C:\Users\vinip\Desktop\Player_Musica\obj\Debug\Player_Musica.Properties.Resources.resources
+C:\Users\vinip\Desktop\Player_Musica\obj\Debug\Player_Musica.csproj.GenerateResource.cache
+C:\Users\vinip\Desktop\Player_Musica\obj\Debug\Player_Musica.csproj.CoreCompileInputs.cache
+C:\Users\vinip\Desktop\Player_Musica\obj\Debug\Player_Musica.exe
+C:\Users\vinip\Desktop\Player_Musica\obj\Debug\Player_Musica.pdb
+C:\Users\vinip\Desktop\Player_Musica\bin\Debug\Interop.WMPLib.dll
+C:\Users\vinip\Desktop\Player_Musica\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\vinip\Desktop\Player_Musica\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\João Pedro Benitez\Documents\Player_Musica - Copia\bin\Debug\Player_Musica.exe.config
+C:\Users\João Pedro Benitez\Documents\Player_Musica - Copia\bin\Debug\Player_Musica.exe
+C:\Users\João Pedro Benitez\Documents\Player_Musica - Copia\bin\Debug\Player_Musica.pdb
+C:\Users\João Pedro Benitez\Documents\Player_Musica - Copia\bin\Debug\Interop.WMPLib.dll
+C:\Users\João Pedro Benitez\Documents\Player_Musica - Copia\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\João Pedro Benitez\Documents\Player_Musica - Copia\obj\Debug\Player_Musica.csproj.AssemblyReference.cache
+C:\Users\João Pedro Benitez\Documents\Player_Musica - Copia\obj\Debug\Player_Musica.csproj.SuggestedBindingRedirects.cache
+C:\Users\João Pedro Benitez\Documents\Player_Musica - Copia\obj\Debug\Interop.WMPLib.dll
+C:\Users\João Pedro Benitez\Documents\Player_Musica - Copia\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\João Pedro Benitez\Documents\Player_Musica - Copia\obj\Debug\Player_Musica.csproj.ResolveComReference.cache
+C:\Users\João Pedro Benitez\Documents\Player_Musica - Copia\obj\Debug\Player_Musica.PrincipalForm1.resources
+C:\Users\João Pedro Benitez\Documents\Player_Musica - Copia\obj\Debug\Player_Musica.Properties.Resources.resources
+C:\Users\João Pedro Benitez\Documents\Player_Musica - Copia\obj\Debug\Player_Musica.csproj.GenerateResource.cache
+C:\Users\João Pedro Benitez\Documents\Player_Musica - Copia\obj\Debug\Player_Musica.csproj.CoreCompileInputs.cache
+C:\Users\João Pedro Benitez\Documents\Player_Musica - Copia\obj\Debug\Player_Musica.exe
+C:\Users\João Pedro Benitez\Documents\Player_Musica - Copia\obj\Debug\Player_Musica.pdb
+C:\Users\João Pedro Benitez\Documents\Projeto Final\bin\Debug\Player_Musica.exe.config
+C:\Users\João Pedro Benitez\Documents\Projeto Final\bin\Debug\Player_Musica.exe
+C:\Users\João Pedro Benitez\Documents\Projeto Final\bin\Debug\Player_Musica.pdb
+C:\Users\João Pedro Benitez\Documents\Projeto Final\bin\Debug\Interop.WMPLib.dll
+C:\Users\João Pedro Benitez\Documents\Projeto Final\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\João Pedro Benitez\Documents\Projeto Final\obj\Debug\Player_Musica.csproj.AssemblyReference.cache
+C:\Users\João Pedro Benitez\Documents\Projeto Final\obj\Debug\Player_Musica.csproj.SuggestedBindingRedirects.cache
+C:\Users\João Pedro Benitez\Documents\Projeto Final\obj\Debug\Interop.WMPLib.dll
+C:\Users\João Pedro Benitez\Documents\Projeto Final\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\João Pedro Benitez\Documents\Projeto Final\obj\Debug\Player_Musica.csproj.ResolveComReference.cache
+C:\Users\João Pedro Benitez\Documents\Projeto Final\obj\Debug\Player_Musica.PrincipalForm1.resources
+C:\Users\João Pedro Benitez\Documents\Projeto Final\obj\Debug\Player_Musica.Properties.Resources.resources
+C:\Users\João Pedro Benitez\Documents\Projeto Final\obj\Debug\Player_Musica.csproj.GenerateResource.cache
+C:\Users\João Pedro Benitez\Documents\Projeto Final\obj\Debug\Player_Musica.csproj.CoreCompileInputs.cache
+C:\Users\João Pedro Benitez\Documents\Projeto Final\obj\Debug\Player_Musica.exe
+C:\Users\João Pedro Benitez\Documents\Projeto Final\obj\Debug\Player_Musica.pdb
